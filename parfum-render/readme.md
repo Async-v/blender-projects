@@ -1,4 +1,4 @@
-### 🗓️ Day 05 – Perfume Bottle Project 🧴
+### Perfume Bottle Project 🧴
 
 Today I created a small 3D project in Blender: a **Perfume Bottle**!
 
